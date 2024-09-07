@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:charcoal"
+    },
+    "2": {
+      "item": "minecraft:charcoal"
+    },
+    "3": {
+      "item": "minecraft:charcoal"
+    },
+    "4": {
+      "item": "minecraft:charcoal"
+    },
+    "5": {
+      "item": "minecraft:charcoal"
+    },
+    "6": {
+      "item": "minecraft:charcoal"
+    },
+    "7": {
+      "item": "minecraft:charcoal"
+    },
+    "8": {
+      "item": "minecraft:charcoal"
+    }
+  },
+  "result": {
+    "item": "lasertag:carbon_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "mod_elements": [
+    {
+      "name": "CarbonArmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbon_armor",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "CarbonArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbon_armor_body_recipe"
+    },
+    {
+      "name": "Lasertag",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lasertag"
+    },
+    {
+      "name": "Saber",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saber"
+    },
+    {
+      "name": "Blaster",
+      "type": "rangeditem",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blaster"
+    },
+    {
+      "name": "Autoblaster",
+      "type": "rangeditem",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "autoblaster"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.lasertag.carbon_armor_helmet": "Carbon Helmet",
+      "item.lasertag.blaster": "Blaster",
+      "item.lasertag.carbon_armor_chestplate": "Carbon Vest",
+      "item.lasertag.autoblaster": "Autoblaster",
+      "item.lasertag.carbon_armor_leggings": "Carbon Leggings",
+      "item.lasertag.carbon_armor_boots": "Carbon Boots",
+      "itemGroup.tablasertag": "Lasertag",
+      "item.lasertag.saber": "Saber"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "lasertag",
+    "modName": "Lasertag",
+    "version": "1a",
+    "author": "StikyPiston2483",
+    "websiteURL": "stikypiston.github.io",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Made in MCreator with \u003c3",
+    "modElementsPackage": "io.github.stikypiston.lasertag",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 34,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "autoblaster",
+    "customModelName": "Normal",
+    "name": "Autoblaster",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Lasertag"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.DYE#1"
+    },
+    "shootConstantly": true,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": true,
+    "animation": "crossbow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 4.4,
+    "bulletKnockback": 3,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Items.DYE#1"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

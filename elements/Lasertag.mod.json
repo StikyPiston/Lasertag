@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Lasertag",
+    "icon": {
+      "value": "Blocks.REDSTONE_TORCH"
+    },
+    "showSearch": false
+  }
+}
